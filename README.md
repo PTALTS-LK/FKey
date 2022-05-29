@@ -9,3 +9,9 @@ Ver1.0有很多设计问题，但是可以直接**对着PCB硬改**(比如**刮*
 ## V1.1已Release
 
  - [x] 首个Release
+
+## 文件夹
+
+PCB文件在HW
+
+Py主控在Src
