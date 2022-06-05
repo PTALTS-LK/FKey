@@ -8,6 +8,8 @@
 
 这个项目是在***完全没有***设计原理图和画PCB的**经验**下进行的
 
+![PRE](/HW/Ver1.1/PCB_PCB_Fkey_2022-06-02.svg)
+
 ## TODOs
 
  - [ ] BLE Keyboard
