@@ -20,7 +20,10 @@
 
 **[Src](/Src)** 用于存放MicroPython主控程序
 
-## TODOs
+## 功能/计划
+ - [x] 基本键位映射(DFJk,可自行更改)
+ - [x] 外接按键/开关
+ - [x] 外接电源
 
  - [ ] BLE Keyboard
  - [ ] AutoPlay
