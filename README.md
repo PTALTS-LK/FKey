@@ -16,8 +16,9 @@
 
 ## 项目文件结构
 
-[HW](/HW)用于存放硬件原理图/PCB和GerBer生产文件
-[Src](/Src)用于存放MicroPython主控程序
+**[HW](/HW)** 用于存放硬件原理图/PCB和GerBer生产文件
+
+**[Src](/Src)** 用于存放MicroPython主控程序
 
 ## TODOs
 
