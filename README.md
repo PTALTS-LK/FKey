@@ -10,24 +10,23 @@
 
 ![PRE](/HW/Ver1.1/PCB_PCB_Fkey_2022-06-02.svg)
 
-## Docs
-
-###### #TOOOOOOOOOOO DO
 
 ## 项目文件结构
 
-**[HW](/HW)** 用于存放硬件原理图/PCB和GerBer生产文件
+**[HW](/HW)** 存放硬件原理图/PCB和GerBer生产文件
 
-**[Src](/Src)** 用于存放MicroPython主控程序
+**[Src](/Src)** 存放MicroPython主控程序
+
+**[Docs](/Docs)** 存放各种文档
 
 ## 功能/计划
- - [x] 基本键位映射(DFJk,可自行更改)
- - [x] 外接按键/开关
- - [x] 外接电源
- - [x] 按键背光
+ - [x] 基本键位映射(DFJk,可在主控自行更改)
+ - [x] 外接按键/开关(Ver1.1)
+ - [x] 外接电源(Ver1.1)
+ - [x] 按键背光(Ver1.1)
+ - [x] AutoPlay(Ver1.1,V1.1)
 
  - [ ] BLE Keyboard
- - [ ] AutoPlay
  - [ ] And More .......
 
 ## 版权声明
