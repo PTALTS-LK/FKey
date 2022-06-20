@@ -8,7 +8,7 @@ jlc打样PCB（约2元）
 2*4Pin 2.54mm 排针*1（约0.1RMB）
 2Pin 2.54mm 排针*1（约0.02RMB）
 CH9329 HID芯片*1（约3RMB）
-四脚MK5P MicroUSB母座*1（约0.4RMB）
+四脚卷边 MicroUSB母座*1（约0.4RMB）
 ESP32 DOIT DEVKIT*1（某宝常见的ESP32开发板版本，约20RMB）
 0.5mm直径钢丝（键轴支撑用）
 键轴键帽*4（约6RMB）
