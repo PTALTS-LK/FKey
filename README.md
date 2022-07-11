@@ -24,7 +24,7 @@
  - [x] 外接按键/开关(Ver1.1)
  - [x] 外接电源(Ver1.1)
  - [x] 按键背光(Ver1.1)
- - [x] AutoPlay(Ver1.1,V1.1)
+ - [x] AutoPlay(硬件宏)(Ver1.1,V1.1)
 
  - [ ] BLE Keyboard
  - [ ] And More .......
