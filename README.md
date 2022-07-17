@@ -8,7 +8,7 @@
 
 这个项目是在***完全没有***设计原理图和画PCB的**经验**下进行的
 
-![PRE](/HW/Ver1.1/PCB_PCB_Fkey_2022-06-02.svg)
+![PRE](/HW/HV1.1/PCB_PCB_Fkey_2022-06-02.svg)
 
 
 ## 项目文件结构
@@ -21,10 +21,10 @@
 
 ## 功能/计划
  - [x] 基本键位映射(DFJk,可在主控自行更改)
- - [x] 外接按键/开关(Ver1.1)
- - [x] 外接电源(Ver1.1)
- - [x] 按键背光(Ver1.1)
- - [x] AutoPlay(硬件宏)(Ver1.1,V1.1)
+ - [x] 外接按键/开关(HV1.1)
+ - [x] 外接电源(HV1.1)
+ - [x] 按键背光(HV1.1)
+ - [x] AutoPlay(按键宏)(HV1.1,SV1.1-AutoPlay)
 
  - [ ] BLE Keyboard
  - [ ] And More .......
