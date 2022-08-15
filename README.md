@@ -30,9 +30,21 @@
  - [ ] And More .......
 
 ## 版权声明
+本项目使用GPLv3协议
+```
+Fkey
+Copyright (C) 2022 PCX-LK
 
-未经本人许可**严禁转载**或者**商用**
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
 
-可以私下修改本项目，如需公开必须**Fork**或**引用**本储存库
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
 
-主控程序可以随意更改/重新分发
+You should have received a copy of the GNU General Public License
+along with this program.  If not, see <https://www.gnu.org/licenses/>.
+```
